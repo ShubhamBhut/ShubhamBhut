@@ -22,7 +22,7 @@
 
 - 👨‍💻 Portfolio(unupdated) at [https://portfolio-shubhampatel.vercel.app/](https://portfolio-shubhampatel.vercel.app/)
 
-- ⚡ Fun fact: **The ancient Greeks developed a mechanical analog computer called the "Antikythera mechanism" around 150-100 BCE. It was used to predict astronomical positions and eclipses.**
+- ⚡ Fun fact: *Python is older than Java.*
 
 </p>
 
