@@ -95,7 +95,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ShubhamBhut/ShubhamBhut/output/github-contribution-grid-snake.svg" />
+<!--<img src="https://raw.githubusercontent.com/ShubhamBhut/ShubhamBhut/output/github-contribution-grid-snake.svg" />-->
 
 ###
 
