@@ -16,7 +16,7 @@
 
 <p align="left">
   
-- 🔭 Currently working on [Quantfinance](https://github.com/ShubhamBhut/QuantFinance)
+- 🔭 Currently working on [Kinglang](https://github.com/ShubhamBhut/kinglang)
 
 - 🌱 Currently learning **Rust**
 
