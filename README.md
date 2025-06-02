@@ -1,4 +1,10 @@
-<h2 align="center">Hi ! I am Shubham 👋</h2>
+<h1 align="center">Shubham Patel</h1>
+<h3 align="center">ML Engineer | Blockchain Dev | Deep Learning Researcher</h3>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F3FBF&width=435&lines=Turning+Data+Into+Decisions;Architecting+DeFi+Solutions;Optimizing+ML+Pipelines" alt="Typing SVG" />
+</div>
+
 
 ###
 
@@ -9,26 +15,25 @@
 ###
 
 <div align="center">
-  <img height="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzIwODg4YjgwYWZhNzdjM2RlOTg1YzBiZWJmNGYzYTg4YmUzYzI3NiZjdD1n/rk2IGzIGKbbeqOrZFw/giphy.gif"  />
+  <img height="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG50em14d3V2dGIwZ2F2MjQ1cGlzenR4aGlvZ2p5anUwdWhlYTJvbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif"  />
 </div>
 
 ###
 
 <p align="left">
   
-- 🔭 Currently working on [Kinglang](https://github.com/ShubhamBhut/kinglang)
-
-- 🌱 Currently learning **Rust**
-
-- 👨‍💻 Portfolio(unupdated) at [https://portfolio-shubhampatel.vercel.app/](https://portfolio-shubhampatel.vercel.app/)
-
-- ⚡ Fun fact: *Python is older than Java.*
+- 🔭 **Building** [Kinglang](https://github.com/ShubhamBhut/kinglang) (a dynamic language to overthrow Python’s tyranny).
+- 🌱 **Learning** Rust to fight the borrow checker (and losing gracefully).
+- 🧠 **Teaching** machines to hallucinate responsibly (a.k.a Deep Learning).
+- 💼 **Portfolio** (slightly outdated): [https://portfolio-shubhampatel.vercel.app/](https://portfolio-shubhampatel.vercel.app/)
+- 🤔 **Philosophy**: *"Life’s errors are just unhandled exceptions."*
 
 </p>
 
 ###
 <!-- 
 <h2 align="left">Tech stack</h2> -->
+
 <div align="left">
   <h2 align="left">Techs:</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" width="52" alt="tensorflow logo"  />
@@ -51,6 +56,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" width="60" alt="docker logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" width="52" alt="kubernetes logo"  />
   <img src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" height="40" width="40" alt="neovim logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Arch_Linux_%22Crystal%22_icon.svg" height="40" width="40" alt="Arch logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
 </div>
 
@@ -92,6 +98,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&username=ShubhamBhut" height="150" alt="languages graph"  />
 </div>
 
+
 ###
 
 <!--<img src="https://raw.githubusercontent.com/ShubhamBhut/ShubhamBhut/output/github-contribution-grid-snake.svg" />-->
@@ -111,3 +118,5 @@
 </div>
 
 ###
+
+<div align="center"> <img src="https://raw.githubusercontent.com/ShubhamBhut/ShubhamBhut/output/github-contribution-grid-snake.svg" alt="Snake animation" /> </div>
