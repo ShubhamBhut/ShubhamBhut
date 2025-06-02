@@ -40,7 +40,7 @@
   <img src="https://avatars.githubusercontent.com/u/5997976?s=200&v=4" height="40" width="45" alt="plotly logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
   <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_solidity.svg" height="40" width="45" alt="solidity logo"  />
-  <img src="https://svgur.com/i/qXK.svg" height="44" width="52" alt="rust logo"  />
+  <img src="https://www.rust-lang.org/logos/rust-logo-512x512.png" height="44" width="52" alt="rust logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="52" alt="cplusplus logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" width="52" alt="arduino logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
@@ -48,7 +48,6 @@
   <img src="https://neo4j.com/wp-content/themes/neo4jweb/v2-templates/brand/assets/logo-section-5.svg" height="40" width="52" alt="neo4j logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="45" width="52" alt="bash logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" width="52" alt="amazonwebservices logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" width="60" alt="docker logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" width="52" alt="kubernetes logo"  />
   <img src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" height="40" width="40" alt="neovim logo"  />
