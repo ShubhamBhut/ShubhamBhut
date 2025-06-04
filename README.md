@@ -1,10 +1,9 @@
 <h1 align="center">Shubham Patel</h1>
-<h3 align="center">ML Engineer | Blockchain Dev | Deep Learning Researcher</h3>
+<h3 align="center">ML Engineer | Data Scientist | Blockchain Dev </h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F3FBF&width=435&lines=Turning+Data+Into+Decisions;Architecting+DeFi+Solutions;Optimizing+ML+Pipelines" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7F3FBF&width=435&center=true&lines=Writing+smarter+smart+contracts;Training+AI+to+hallucinate+less;Making+pandas+do+magic+tricks;Turning+data+into+decisions;" alt="Typing SVG" />
 </div>
-
 
 ###
 
@@ -23,7 +22,7 @@
 <p align="left">
   
 - 🔭 **Building** [Kinglang](https://github.com/ShubhamBhut/kinglang) (a dynamic language to overthrow Python’s tyranny).
-- 🌱 **Learning** Rust to fight the borrow checker (and losing gracefully).
+- 🌱 **Mastering** Rust - one borrow checker negotiation at a time
 - 🧠 **Teaching** machines to hallucinate responsibly (a.k.a Deep Learning).
 - 💼 **Portfolio** (slightly outdated): [https://portfolio-shubhampatel.vercel.app/](https://portfolio-shubhampatel.vercel.app/)
 - 🤔 **Philosophy**: *"Life’s errors are just unhandled exceptions."*
